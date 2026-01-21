@@ -1,4 +1,4 @@
-# Műszaki Adatlap: 60 Literes Kerámiaégető Kemence Méretezése 
+﻿# Műszaki Adatlap: 60 Literes Kerámiaégető Kemence Méretezése 
 
 Alkalmazott huzal: Kanthal A1, Ø 1,2 mm
 Hálózati feszültség: 230 V (1 fázis) 
