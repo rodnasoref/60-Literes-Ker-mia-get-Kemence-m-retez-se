@@ -1,4 +1,4 @@
-﻿# Műszaki Adatlap: 60 Literes Kerámiaégető Kemence Méretezése 
+﻿# 60 Literes Kerámiaégető Kemence Méretezése 
 
 Alkalmazott huzal: Kanthal A1, Ø 1,2 mm  
 Hálózati feszültség: 230 V (1 fázis) 
@@ -23,5 +23,6 @@ Gyártási javaslatok (1,2 mm-es huzalhoz):
 	Menettávolság: A spirál menetek közötti távolsága legalább a huzalátmérő kétszerese legyen, hogy elkerülje a helyi túlmelegedést.  
 	Hálózati követelmény: A 3,9 kW-os verzióhoz legalább B20A vagy C20A kismegszakító és minimum 2,5 \(mm^{2}\) keresztmetszetű rézvezeték szükséges.  
 	Huzal rögzítése: A hosszú (30 méter feletti) huzal elhelyezésénél ügyeljen a kerámia tartók/hornyok stabil rögzítésére, mert a huzal magas hőmérsékleten kilágyul és megereszkedhet. 
+
 
 
