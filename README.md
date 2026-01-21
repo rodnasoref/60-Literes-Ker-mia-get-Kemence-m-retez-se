@@ -7,7 +7,7 @@ Hálózati feszültség: 230 V (1 fázis) 
 	Egy fűtőszál teljesítménye: 1300 W  
 	Szükséges ellenállás (szálanként): 40,77Ω  
 	Áramerősség (fázisonként összesen): 16,95 A  
-	Szükséges huzalhossz (szálanként): 31,8 méter  
+	Szükséges huzalhossz (szálanként): 31,8 m  
 	Felületi terhelés: 1,085 W/cm² (Kiváló, hosszú élettartam)  
 
 2. Konfiguráció: 3 x 1,4 kW (Összteljesítmény: 4,2 kW)  
@@ -15,7 +15,7 @@ Hálózati feszültség: 230 V (1 fázis) 
 	Egy fűtőszál teljesítménye: 1400 W  
 	Szükséges ellenállás (szálanként): 37,8Ω  
 	Áramerősség (fázisonként összesen): 18,27 A  
-	Szükséges huzalhossz (szálanként): 29,5 méter  
+	Szükséges huzalhossz (szálanként): 29,5 m  
 	Felületi terhelés: 1,26 W/cm² (Optimális élettartam)  
 
 Gyártási javaslatok (1,2 mm-es huzalhoz):  
@@ -23,4 +23,5 @@ Gyártási javaslatok (1,2 mm-es huzalhoz):
 	Menettávolság: A spirál menetek közötti távolsága legalább a huzalátmérő kétszerese legyen, hogy elkerülje a helyi túlmelegedést.  
 	Hálózati követelmény: A 3,9 kW-os verzióhoz legalább B20A vagy C20A kismegszakító és minimum 2,5 \(mm^{2}\) keresztmetszetű rézvezeték szükséges.  
 	Huzal rögzítése: A hosszú (30 méter feletti) huzal elhelyezésénél ügyeljen a kerámia tartók/hornyok stabil rögzítésére, mert a huzal magas hőmérsékleten kilágyul és megereszkedhet. 
+
 
